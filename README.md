@@ -66,12 +66,12 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Marcio Rodrigues** - _Front-End | Mobile Developer_ - [@marciordj](seutwitter)
 
 ---
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
+    <img src="./assets/footer_4noobs.svg" width="380">
   </a>
 </p>
